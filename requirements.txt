@@ -1,0 +1,7 @@
+# PyTorch: install the wheel that matches your platform/CUDA from https://pytorch.org/get-started/locally/
+# Example (CPU only): pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+transformers>=4.40.0
+matplotlib>=3.7.0
+accelerate>=0.27.0
+sentencepiece>=0.1.99
